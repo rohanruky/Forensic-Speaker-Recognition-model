@@ -1,4 +1,5 @@
 Forensic Speaker Recognition
+
 This project implements an automated forensic speaker recognition system that analyzes and compares two audio samples to determine if they belong to the same speaker.
 
 🚀 Features
